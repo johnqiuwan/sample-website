@@ -1,1 +1,1 @@
-# sample-website
+# This is just for fun
